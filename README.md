@@ -90,4 +90,5 @@ Herança; Composição; Associação; Polimorfismo; Encapsulamento.
 ❌ Adicionar mais personagens e novas combinações de sílabas para ampliar a variedade e replay do jogo.
 
 ❌ Adicionar mais músicas ao jogo para enriquecer a experiência sonora e dar identidade única a cada fase ou personagem.
+
 ---
