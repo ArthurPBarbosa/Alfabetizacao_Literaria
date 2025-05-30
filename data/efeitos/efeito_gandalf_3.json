@@ -1,0 +1,15 @@
+{
+  "tipo": "particulas",
+  "quantidade": 20,
+  "duracao_ms": 4000,
+  "area": [70, 70],
+  "particula": {
+    "velocidade": [0, 0.5],
+    "variacao_velocidade": [0.5, 1.0],
+    "escala_inicial": 0.8,
+    "escala_final": 0.5,
+    "cor_tinta": [180, 240, 255, 160],
+    "alpha_decay": false,
+    "modo": "normal"
+  }
+}

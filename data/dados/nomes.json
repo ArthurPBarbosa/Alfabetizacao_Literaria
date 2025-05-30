@@ -1,0 +1,1416 @@
+[
+  {
+    "nome": "arqui",
+    "silaba_certa": "ar",
+    "silabas_opcoes": [
+      "er",
+      "ir",
+      "or",
+      "ur",
+      "gi",
+      "tu",
+      "ki",
+      "ar"
+    ]
+  },
+  {
+    "nome": "balim",
+    "silaba_certa": "ba",
+    "silabas_opcoes": [
+      "bo",
+      "bu",
+      "be",
+      "bi",
+      "no",
+      "ra",
+      "cu",
+      "ba"
+    ]
+  },
+  {
+    "nome": "lobelia",
+    "silaba_certa": "be",
+    "silabas_opcoes": [
+      "ba",
+      "bo",
+      "bu",
+      "bi",
+      "to",
+      "ki",
+      "ti",
+      "be"
+    ]
+  },
+  {
+    "nome": "beleriende",
+    "silaba_certa": "be",
+    "silabas_opcoes": [
+      "ba",
+      "bo",
+      "bu",
+      "bi",
+      "go",
+      "hu",
+      "pi",
+      "be"
+    ]
+  },
+  {
+    "nome": "beorne",
+    "silaba_certa": "be",
+    "silabas_opcoes": [
+      "ba",
+      "bo",
+      "bu",
+      "bi",
+      "no",
+      "zo",
+      "pa",
+      "be"
+    ]
+  },
+  {
+    "nome": "bifur",
+    "silaba_certa": "bi",
+    "silabas_opcoes": [
+      "ba",
+      "bo",
+      "bu",
+      "be",
+      "go",
+      "ca",
+      "xo",
+      "bi"
+    ]
+  },
+  {
+    "nome": "bilbo",
+    "silaba_certa": "bo",
+    "silabas_opcoes": [
+      "ba",
+      "bu",
+      "be",
+      "bi",
+      "zo",
+      "he",
+      "di",
+      "bo"
+    ]
+  },
+  {
+    "nome": "bombur",
+    "silaba_certa": "bo",
+    "silabas_opcoes": [
+      "ba",
+      "bu",
+      "be",
+      "bi",
+      "to",
+      "ro",
+      "ne",
+      "bo"
+    ]
+  },
+  {
+    "nome": "boaventura",
+    "silaba_certa": "bo",
+    "silabas_opcoes": [
+      "ba",
+      "bu",
+      "be",
+      "bi",
+      "me",
+      "re",
+      "xo",
+      "bo"
+    ]
+  },
+  {
+    "nome": "burro",
+    "silaba_certa": "bu",
+    "silabas_opcoes": [
+      "ba",
+      "bo",
+      "be",
+      "bi",
+      "to",
+      "na",
+      "ro",
+      "bu"
+    ]
+  },
+  {
+    "nome": "carcarote",
+    "silaba_certa": "ca",
+    "silabas_opcoes": [
+      "co",
+      "ce",
+      "ci",
+      "cu",
+      "he",
+      "ru",
+      "me",
+      "ca"
+    ]
+  },
+  {
+    "nome": "cirdan",
+    "silaba_certa": "ci",
+    "silabas_opcoes": [
+      "co",
+      "ce",
+      "ca",
+      "cu",
+      "lo",
+      "pi",
+      "ta",
+      "ci"
+    ]
+  },
+  {
+    "nome": "cirite ungol",
+    "silaba_certa": "ci",
+    "silabas_opcoes": [
+      "co",
+      "ce",
+      "ca",
+      "cu",
+      "fo",
+      "to",
+      "so",
+      "ci"
+    ]
+  },
+  {
+    "nome": "bronco",
+    "silaba_certa": "co",
+    "silabas_opcoes": [
+      "ci",
+      "ce",
+      "ca",
+      "cu",
+      "lo",
+      "pi",
+      "ta",
+      "co"
+    ]
+  },
+  {
+    "nome": "escuro",
+    "silaba_certa": "cu",
+    "silabas_opcoes": [
+      "co",
+      "ce",
+      "ca",
+      "ci",
+      "hu",
+      "bu",
+      "vi",
+      "cu"
+    ]
+  },
+  {
+    "nome": "gandalfe",
+    "silaba_certa": "da",
+    "silabas_opcoes": [
+      "de",
+      "di",
+      "do",
+      "du",
+      "la",
+      "bu",
+      "za",
+      "da"
+    ]
+  },
+  {
+    "nome": "daim",
+    "silaba_certa": "da",
+    "silabas_opcoes": [
+      "di",
+      "de",
+      "do",
+      "du",
+      "xo",
+      "pi",
+      "mu",
+      "da"
+    ]
+  },
+  {
+    "nome": "denator",
+    "silaba_certa": "de",
+    "silabas_opcoes": [
+      "di",
+      "du",
+      "do",
+      "da",
+      "ri",
+      "ne",
+      "la",
+      "de"
+    ]
+  },
+  {
+    "nome": "tede",
+    "silaba_certa": "de",
+    "silabas_opcoes": [
+      "di",
+      "du",
+      "do",
+      "da",
+      "ga",
+      "mu",
+      "fu",
+      "de"
+    ]
+  },
+  {
+    "nome": "dias",
+    "silaba_certa": "di",
+    "silabas_opcoes": [
+      "de",
+      "du",
+      "do",
+      "da",
+      "xo",
+      "no",
+      "me",
+      "di"
+    ]
+  },
+  {
+    "nome": "grondi",
+    "silaba_certa": "di",
+    "silabas_opcoes": [
+      "de",
+      "du",
+      "do",
+      "da",
+      "pe",
+      "xo",
+      "ra",
+      "di"
+    ]
+  },
+  {
+    "nome": "frodo",
+    "silaba_certa": "do",
+    "silabas_opcoes": [
+      "di",
+      "de",
+      "du",
+      "da",
+      "mo",
+      "bi",
+      "po",
+      "do"
+    ]
+  },
+  {
+    "nome": "durim",
+    "silaba_certa": "du",
+    "silabas_opcoes": [
+      "di",
+      "de",
+      "do",
+      "da",
+      "ce",
+      "he",
+      "ba",
+      "du"
+    ]
+  },
+  {
+    "nome": "espantalho",
+    "silaba_certa": "es",
+    "silabas_opcoes": [
+      "as",
+      "is",
+      "os",
+      "us",
+      "di",
+      "pe",
+      "ve",
+      "es"
+    ]
+  },
+  {
+    "nome": "faramir",
+    "silaba_certa": "fa",
+    "silabas_opcoes": [
+      "fo",
+      "fi",
+      "fe",
+      "fu",
+      "xe",
+      "ri",
+      "xa",
+      "fa"
+    ]
+  },
+  {
+    "nome": "feanor",
+    "silaba_certa": "fe",
+    "silabas_opcoes": [
+      "fo",
+      "fa",
+      "fi",
+      "fu",
+      "he",
+      "vi",
+      "gi",
+      "fe"
+    ]
+  },
+  {
+    "nome": "ferreirinha",
+    "silaba_certa": "fe",
+    "silabas_opcoes": [
+      "fo",
+      "fa",
+      "fi",
+      "fu",
+      "le",
+      "ge",
+      "te",
+      "fe"
+    ]
+  },
+  {
+    "nome": "fili",
+    "silaba_certa": "fi",
+    "silabas_opcoes": [
+      "fo",
+      "fa",
+      "fe",
+      "fu",
+      "ta",
+      "ce",
+      "ma",
+      "fi"
+    ]
+  },
+  {
+    "nome": "forodrim",
+    "silaba_certa": "fo",
+    "silabas_opcoes": [
+      "fa",
+      "fi",
+      "fe",
+      "fu",
+      "cu",
+      "li",
+      "zo",
+      "fo"
+    ]
+  },
+  {
+    "nome": "fome",
+    "silaba_certa": "fo",
+    "silabas_opcoes": [
+      "fa",
+      "fi",
+      "fe",
+      "fu",
+      "go",
+      "zu",
+      "pa",
+      "fo"
+    ]
+  },
+  {
+    "nome": "fuinur",
+    "silaba_certa": "fu",
+    "silabas_opcoes": [
+      "fo",
+      "fa",
+      "fe",
+      "fi",
+      "mo",
+      "vi",
+      "do",
+      "fu"
+    ]
+  },
+  {
+    "nome": "galadriel",
+    "silaba_certa": "ga",
+    "silabas_opcoes": [
+      "go",
+      "gu",
+      "gi",
+      "ge",
+      "cu",
+      "la",
+      "di",
+      "ga"
+    ]
+  },
+  {
+    "nome": "sam gamgi",
+    "silaba_certa": "gi",
+    "silabas_opcoes": [
+      "ga",
+      "ge",
+      "go",
+      "gu",
+      "so",
+      "ri",
+      "pu",
+      "gi"
+    ]
+  },
+  {
+    "nome": "girafoelho",
+    "silaba_certa": "gi",
+    "silabas_opcoes": [
+      "go",
+      "gu",
+      "ga",
+      "ge",
+      "cu",
+      "fi",
+      "me",
+      "gi"
+    ]
+  },
+  {
+    "nome": "aragorne",
+    "silaba_certa": "go",
+    "silabas_opcoes": [
+      "ga",
+      "ge",
+      "gi",
+      "gu",
+      "la",
+      "el",
+      "to",
+      "go"
+    ]
+  },
+  {
+    "nome": "golum",
+    "silaba_certa": "go",
+    "silabas_opcoes": [
+      "gu",
+      "gi",
+      "ge",
+      "ga",
+      "co",
+      "te",
+      "ha",
+      "go"
+    ]
+  },
+  {
+    "nome": "gurtangue",
+    "silaba_certa": "gu",
+    "silabas_opcoes": [
+      "go",
+      "gi",
+      "ge",
+      "ga",
+      "ta",
+      "ni",
+      "re",
+      "gu"
+    ]
+  },
+  {
+    "nome": "haldir",
+    "silaba_certa": "ha",
+    "silabas_opcoes": [
+      "he",
+      "hu",
+      "hi",
+      "ho",
+      "vi",
+      "mo",
+      "po",
+      "ha"
+    ]
+  },
+  {
+    "nome": "hoam",
+    "silaba_certa": "ho",
+    "silabas_opcoes": [
+      "ha",
+      "he",
+      "hi",
+      "hu",
+      "ri",
+      "ne",
+      "la",
+      "ho"
+    ]
+  },
+  {
+    "nome": "hurim",
+    "silaba_certa": "hu",
+    "silabas_opcoes": [
+      "ha",
+      "he",
+      "hi",
+      "ho",
+      "nu",
+      "pu",
+      "bi",
+      "hu"
+    ]
+  },
+  {
+    "nome": "kazadum",
+    "silaba_certa": "ka",
+    "silabas_opcoes": [
+      "ki",
+      "ko",
+      "ke",
+      "ku",
+      "ti",
+      "ce",
+      "pi",
+      "ka"
+    ]
+  },
+  {
+    "nome": "kili",
+    "silaba_certa": "ki",
+    "silabas_opcoes": [
+      "ka",
+      "ke",
+      "ko",
+      "ku",
+      "ve",
+      "mo",
+      "cu",
+      "ki"
+    ]
+  },
+  {
+    "nome": "lata",
+    "silaba_certa": "la",
+    "silabas_opcoes": [
+      "li",
+      "le",
+      "lo",
+      "lu",
+      "di",
+      "pe",
+      "ve",
+      "la"
+    ]
+  },
+  {
+    "nome": "quelebrimbor",
+    "silaba_certa": "le",
+    "silabas_opcoes": [
+      "la",
+      "li",
+      "lo",
+      "lu",
+      "mu",
+      "xe",
+      "ze",
+      "le"
+    ]
+  },
+  {
+    "nome": "legolas",
+    "silaba_certa": "le",
+    "silabas_opcoes": [
+      "li",
+      "la",
+      "lo",
+      "lu",
+      "no",
+      "ti",
+      "ni",
+      "le"
+    ]
+  },
+  {
+    "nome": "leao",
+    "silaba_certa": "le",
+    "silabas_opcoes": [
+      "li",
+      "la",
+      "lo",
+      "lu",
+      "ha",
+      "ma",
+      "go",
+      "le"
+    ]
+  },
+  {
+    "nome": "lebre",
+    "silaba_certa": "le",
+    "silabas_opcoes": [
+      "li",
+      "la",
+      "lo",
+      "lu",
+      "so",
+      "ve",
+      "be",
+      "le"
+    ]
+  },
+  {
+    "nome": "alice",
+    "silaba_certa": "li",
+    "silabas_opcoes": [
+      "la",
+      "le",
+      "lo",
+      "lu",
+      "fu",
+      "pu",
+      "na",
+      "li"
+    ]
+  },
+  {
+    "nome": "pelicano",
+    "silaba_certa": "li",
+    "silabas_opcoes": [
+      "la",
+      "le",
+      "bo",
+      "lo",
+      "lu",
+      "fa",
+      "ra",
+      "li"
+    ]
+  },
+  {
+    "nome": "pelo",
+    "silaba_certa": "lo",
+    "silabas_opcoes": [
+      "li",
+      "la",
+      "le",
+      "lu",
+      "ci",
+      "cu",
+      "fe",
+      "lo"
+    ]
+  },
+  {
+    "nome": "lobo",
+    "silaba_certa": "lo",
+    "silabas_opcoes": [
+      "la",
+      "le",
+      "li",
+      "lu",
+      "va",
+      "mo",
+      "xo",
+      "lo"
+    ]
+  },
+  {
+    "nome": "grima",
+    "silaba_certa": "ma",
+    "silabas_opcoes": [
+      "mo",
+      "me",
+      "mu",
+      "mi",
+      "gi",
+      "la",
+      "vi",
+      "ma"
+    ]
+  },
+  {
+    "nome": "macaco",
+    "silaba_certa": "ma",
+    "silabas_opcoes": [
+      "mo",
+      "me",
+      "mu",
+      "mi",
+      "si",
+      "bu",
+      "di",
+      "ma"
+    ]
+  },
+  {
+    "nome": "meriadoque",
+    "silaba_certa": "me",
+    "silabas_opcoes": [
+      "mo",
+      "ma",
+      "mu",
+      "mi",
+      "bo",
+      "vo",
+      "ca",
+      "me"
+    ]
+  },
+  {
+    "nome": "mitrandir",
+    "silaba_certa": "mi",
+    "silabas_opcoes": [
+      "mo",
+      "ma",
+      "mu",
+      "me",
+      "ni",
+      "ri",
+      "se",
+      "mi"
+    ]
+  },
+  {
+    "nome": "moleiro",
+    "silaba_certa": "mo",
+    "silabas_opcoes": [
+      "ma",
+      "mu",
+      "me",
+      "mi",
+      "gi",
+      "ni",
+      "tu",
+      "mo"
+    ]
+  },
+  {
+    "nome": "mulher",
+    "silaba_certa": "mu",
+    "silabas_opcoes": [
+      "mo",
+      "ma",
+      "me",
+      "mi",
+      "du",
+      "xa",
+      "fe",
+      "mu"
+    ]
+  },
+  {
+    "nome": "narsil",
+    "silaba_certa": "na",
+    "silabas_opcoes": [
+      "nu",
+      "ne",
+      "no",
+      "ni",
+      "zo",
+      "be",
+      "ce",
+      "na"
+    ]
+  },
+  {
+    "nome": "unicornio",
+    "silaba_certa": "ni",
+    "silabas_opcoes": [
+      "nu",
+      "na",
+      "ne",
+      "no",
+      "pu",
+      "vi",
+      "di",
+      "ni"
+    ]
+  },
+  {
+    "nome": "noites",
+    "silaba_certa": "no",
+    "silabas_opcoes": [
+      "nu",
+      "na",
+      "ne",
+      "ni",
+      "gi",
+      "lo",
+      "ge",
+      "no"
+    ]
+  },
+  {
+    "nome": "bruno",
+    "silaba_certa": "no",
+    "silabas_opcoes": [
+      "nu",
+      "na",
+      "ne",
+      "ni",
+      "zu",
+      "tu",
+      "vo",
+      "no"
+    ]
+  },
+  {
+    "nome": "numenor",
+    "silaba_certa": "nu",
+    "silabas_opcoes": [
+      "na",
+      "ne",
+      "no",
+      "ni",
+      "tu",
+      "bi",
+      "le",
+      "nu"
+    ]
+  },
+  {
+    "nome": "palantir",
+    "silaba_certa": "pa",
+    "silabas_opcoes": [
+      "pe",
+      "pu",
+      "po",
+      "pi",
+      "ga",
+      "bo",
+      "zo",
+      "pa"
+    ]
+  },
+  {
+    "nome": "chapeleiro",
+    "silaba_certa": "pe",
+    "silabas_opcoes": [
+      "pu",
+      "pa",
+      "po",
+      "pi",
+      "ga",
+      "xo",
+      "no",
+      "pe"
+    ]
+  },
+  {
+    "nome": "capitao",
+    "silaba_certa": "pi",
+    "silabas_opcoes": [
+      "pa",
+      "pe",
+      "po",
+      "pu",
+      "no",
+      "ti",
+      "ni",
+      "pi"
+    ]
+  },
+  {
+    "nome": "pipim",
+    "silaba_certa": "pi",
+    "silabas_opcoes": [
+      "pu",
+      "pa",
+      "po",
+      "pe",
+      "gi",
+      "tu",
+      "ki",
+      "pi"
+    ]
+  },
+  {
+    "nome": "pulo",
+    "silaba_certa": "pu",
+    "silabas_opcoes": [
+      "pe",
+      "pa",
+      "po",
+      "pi",
+      "ve",
+      "te",
+      "na",
+      "pu"
+    ]
+  },
+  {
+    "nome": "rapunzel",
+    "silaba_certa": "ra",
+    "silabas_opcoes": [
+      "re",
+      "ri",
+      "ro",
+      "ru",
+      "so",
+      "ve",
+      "be",
+      "ra"
+    ]
+  },
+  {
+    "nome": "rato",
+    "silaba_certa": "ra",
+    "silabas_opcoes": [
+      "ro",
+      "re",
+      "ri",
+      "ru",
+      "bi",
+      "tu",
+      "gu",
+      "ra"
+    ]
+  },
+  {
+    "nome": "raiva",
+    "silaba_certa": "ra",
+    "silabas_opcoes": [
+      "ro",
+      "re",
+      "ri",
+      "ru",
+      "li",
+      "me",
+      "ba",
+      "ra"
+    ]
+  },
+  {
+    "nome": "chaleira",
+    "silaba_certa": "ra",
+    "silabas_opcoes": [
+      "ro",
+      "re",
+      "ri",
+      "ru",
+      "pa",
+      "xa",
+      "be",
+      "ra"
+    ]
+  },
+  {
+    "nome": "barbarvore",
+    "silaba_certa": "re",
+    "silabas_opcoes": [
+      "ra",
+      "ro",
+      "ri",
+      "ru",
+      "lo",
+      "ma",
+      "he",
+      "re"
+    ]
+  },
+  {
+    "nome": "rei",
+    "silaba_certa": "re",
+    "silabas_opcoes": [
+      "ra",
+      "ro",
+      "ri",
+      "ru",
+      "si",
+      "nu",
+      "mu",
+      "re"
+    ]
+  },
+  {
+    "nome": "dorote",
+    "silaba_certa": "ro",
+    "silabas_opcoes": [
+      "ra",
+      "re",
+      "ri",
+      "ru",
+      "me",
+      "xo",
+      "ha",
+      "ro"
+    ]
+  },
+  {
+    "nome": "touro",
+    "silaba_certa": "ro",
+    "silabas_opcoes": [
+      "ra",
+      "re",
+      "ri",
+      "ru",
+      "he",
+      "vo",
+      "se",
+      "ro"
+    ]
+  },
+  {
+    "nome": "carteiro",
+    "silaba_certa": "ro",
+    "silabas_opcoes": [
+      "ra",
+      "re",
+      "ri",
+      "ru",
+      "go",
+      "zo",
+      "fo",
+      "ro"
+    ]
+  },
+  {
+    "nome": "sarumam",
+    "silaba_certa": "ru",
+    "silabas_opcoes": [
+      "ra",
+      "re",
+      "ri",
+      "ro",
+      "fa",
+      "no",
+      "ar",
+      "ru"
+    ]
+  },
+  {
+    "nome": "coruja",
+    "silaba_certa": "ru",
+    "silabas_opcoes": [
+      "ra",
+      "ro",
+      "re",
+      "ri",
+      "gi",
+      "pe",
+      "ha",
+      "ru"
+    ]
+  },
+  {
+    "nome": "saurom",
+    "silaba_certa": "sa",
+    "silabas_opcoes": [
+      "se",
+      "si",
+      "so",
+      "su",
+      "lo",
+      "mo",
+      "xo",
+      "sa"
+    ]
+  },
+  {
+    "nome": "sapo",
+    "silaba_certa": "sa",
+    "silabas_opcoes": [
+      "se",
+      "si",
+      "so",
+      "su",
+      "xe",
+      "fi",
+      "fu",
+      "sa"
+    ]
+  },
+  {
+    "nome": "serpente",
+    "silaba_certa": "se",
+    "silabas_opcoes": [
+      "si",
+      "sa",
+      "so",
+      "su",
+      "ru",
+      "gi",
+      "be",
+      "se"
+    ]
+  },
+  {
+    "nome": "urso",
+    "silaba_certa": "so",
+    "silabas_opcoes": [
+      "se",
+      "si",
+      "sa",
+      "su",
+      "xe",
+      "ka",
+      "xa",
+      "so"
+    ]
+  },
+  {
+    "nome": "ortanque",
+    "silaba_certa": "ta",
+    "silabas_opcoes": [
+      "to",
+      "te",
+      "ti",
+      "tu",
+      "he",
+      "du",
+      "bu",
+      "ta"
+    ]
+  },
+  {
+    "nome": "radagaste",
+    "silaba_certa": "te",
+    "silabas_opcoes": [
+      "to",
+      "tu",
+      "ta",
+      "ti",
+      "no",
+      "ga",
+      "zo",
+      "te"
+    ]
+  },
+  {
+    "nome": "triste",
+    "silaba_certa": "te",
+    "silabas_opcoes": [
+      "to",
+      "tu",
+      "ta",
+      "ti",
+      "va",
+      "xe",
+      "da",
+      "te"
+    ]
+  },
+  {
+    "nome": "tede",
+    "silaba_certa": "te",
+    "silabas_opcoes": [
+      "to",
+      "tu",
+      "ta",
+      "ti",
+      "nu",
+      "di",
+      "mo",
+      "te"
+    ]
+  },
+  {
+    "nome": "nautilus",
+    "silaba_certa": "ti",
+    "silabas_opcoes": [
+      "to",
+      "te",
+      "ta",
+      "tu",
+      "se",
+      "ra",
+      "ve",
+      "ti"
+    ]
+  },
+  {
+    "nome": "automovel",
+    "silaba_certa": "to",
+    "silabas_opcoes": [
+      "te",
+      "ta",
+      "ti",
+      "tu",
+      "vo",
+      "ce",
+      "hu",
+      "to"
+    ]
+  },
+  {
+    "nome": "alto",
+    "silaba_certa": "to",
+    "silabas_opcoes": [
+      "te",
+      "ta",
+      "ti",
+      "tu",
+      "zu",
+      "gu",
+      "xo",
+      "to"
+    ]
+  },
+  {
+    "nome": "turim",
+    "silaba_certa": "tu",
+    "silabas_opcoes": [
+      "to",
+      "te",
+      "ta",
+      "ti",
+      "xe",
+      "pi",
+      "nu",
+      "tu"
+    ]
+  },
+  {
+    "nome": "Yavana",
+    "silaba_certa": "va",
+    "silabas_opcoes": [
+      "vi",
+      "ve",
+      "vo",
+      "vu",
+      "ri",
+      "bu",
+      "ma",
+      "va"
+    ]
+  },
+  {
+    "nome": "ave",
+    "silaba_certa": "ve",
+    "silabas_opcoes": [
+      "vi",
+      "va",
+      "vo",
+      "vu",
+      "xo",
+      "pu",
+      "gu",
+      "ve"
+    ]
+  },
+  {
+    "nome": "violino",
+    "silaba_certa": "vi",
+    "silabas_opcoes": [
+      "ve",
+      "va",
+      "vo",
+      "vu",
+      "gi",
+      "gu",
+      "zo",
+      "vi"
+    ]
+  },
+  {
+    "nome": "corvo",
+    "silaba_certa": "vo",
+    "silabas_opcoes": [
+      "vi",
+      "ve",
+      "va",
+      "vu",
+      "go",
+      "ga",
+      "fi",
+      "vo"
+    ]
+  },
+  {
+    "nome": "bruxa",
+    "silaba_certa": "xa",
+    "silabas_opcoes": [
+      "xo",
+      "xe",
+      "xu",
+      "xi",
+      "gu",
+      "fe",
+      "be",
+      "xa"
+    ]
+  },
+  {
+    "nome": "peixe",
+    "silaba_certa": "xe",
+    "silabas_opcoes": [
+      "xo",
+      "xa",
+      "xu",
+      "xi",
+      "so",
+      "ne",
+      "di",
+      "xe"
+    ]
+  },
+  {
+    "nome": "bruxo",
+    "silaba_certa": "xo",
+    "silabas_opcoes": [
+      "xa",
+      "xe",
+      "xu",
+      "xi",
+      "ro",
+      "ti",
+      "zo",
+      "xo"
+    ]
+  },
+  {
+    "nome": "queixo",
+    "silaba_certa": "xo",
+    "silabas_opcoes": [
+      "xa",
+      "xe",
+      "xi",
+      "xu",
+      "so",
+      "ci",
+      "le",
+      "xo"
+    ]
+  },
+  {
+    "nome": "rapunzel",
+    "silaba_certa": "ze",
+    "silabas_opcoes": [
+      "zo",
+      "za",
+      "zi",
+      "zu",
+      "li",
+      "mu",
+      "fa",
+      "ze"
+    ]
+  },
+  {
+    "nome": "crizofilax",
+    "silaba_certa": "zo",
+    "silabas_opcoes": [
+      "za",
+      "ze",
+      "zu",
+      "zi",
+      "xe",
+      "mu",
+      "ve",
+      "zo"
+    ]
+  },
+  {
+    "nome": "zumbido",
+    "silaba_certa": "zu",
+    "silabas_opcoes": [
+      "zo",
+      "za",
+      "ze",
+      "zi",
+      "li",
+      "mu",
+      "fa",
+      "zu"
+    ]
+  }
+]
